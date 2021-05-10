@@ -1,0 +1,15 @@
+D:\Murach\C#\Exercise Solutions\Chapter 06\Ex 6-2 FutureValue\FutureValue\bin\Debug\netcoreapp3.1\FutureValue.exe
+D:\Murach\C#\Exercise Solutions\Chapter 06\Ex 6-2 FutureValue\FutureValue\bin\Debug\netcoreapp3.1\FutureValue.deps.json
+D:\Murach\C#\Exercise Solutions\Chapter 06\Ex 6-2 FutureValue\FutureValue\bin\Debug\netcoreapp3.1\FutureValue.runtimeconfig.json
+D:\Murach\C#\Exercise Solutions\Chapter 06\Ex 6-2 FutureValue\FutureValue\bin\Debug\netcoreapp3.1\FutureValue.runtimeconfig.dev.json
+D:\Murach\C#\Exercise Solutions\Chapter 06\Ex 6-2 FutureValue\FutureValue\bin\Debug\netcoreapp3.1\FutureValue.dll
+D:\Murach\C#\Exercise Solutions\Chapter 06\Ex 6-2 FutureValue\FutureValue\bin\Debug\netcoreapp3.1\FutureValue.pdb
+D:\Murach\C#\Exercise Solutions\Chapter 06\Ex 6-2 FutureValue\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.csprojAssemblyReference.cache
+D:\Murach\C#\Exercise Solutions\Chapter 06\Ex 6-2 FutureValue\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.frmFutureValue.resources
+D:\Murach\C#\Exercise Solutions\Chapter 06\Ex 6-2 FutureValue\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.csproj.GenerateResource.cache
+D:\Murach\C#\Exercise Solutions\Chapter 06\Ex 6-2 FutureValue\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.AssemblyInfoInputs.cache
+D:\Murach\C#\Exercise Solutions\Chapter 06\Ex 6-2 FutureValue\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.AssemblyInfo.cs
+D:\Murach\C#\Exercise Solutions\Chapter 06\Ex 6-2 FutureValue\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.csproj.CoreCompileInputs.cache
+D:\Murach\C#\Exercise Solutions\Chapter 06\Ex 6-2 FutureValue\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.dll
+D:\Murach\C#\Exercise Solutions\Chapter 06\Ex 6-2 FutureValue\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.pdb
+D:\Murach\C#\Exercise Solutions\Chapter 06\Ex 6-2 FutureValue\FutureValue\obj\Debug\netcoreapp3.1\FutureValue.genruntimeconfig.cache
